@@ -8,25 +8,25 @@
 
 | 课程代码 | 课程名称 | 主要内容 |
 | :--- | :--- | :--- |
-| **CS5001** | [**Statistical Machine Learning**](./5001%20Statistical%20Machine%20Learn...) 
-| **CS5003** | [**Storing and Retrieving Data**](./5003%20Storing%20and%20Retriving%20data) 
-| **CS6004** | [**Smart City**](./6004%20Smart%20City) 
-| **CS6015** | [**Stochastic Optimization for ML**](./6015%20Stochastic%20Opt%20for%20ML) 
+| **CS5001** | [**Statistical Machine Learning**](./5001%20Statistical%20Machine%20Learn...) |统计机器学习1（必修）|
+| **CS5003** | [**Storing and Retrieving Data**](./5003%20Storing%20and%20Retriving%20data)|数据库基础（必修）|
+| **CS6004** | [**Smart City**](./6004%20Smart%20City) |智慧城市（选修）|
+| **CS6015** | [**Stochastic Optimization for ML**](./6015%20Stochastic%20Opt%20for%20ML) |机器学习的随机优化方法（选修）|
 
 ---
 
 ## 📘 课程详细介绍 (Course Details)
 
-### 1. [5001 Statistical Machine Learning](./5001%20Statistical%20Machine%20Learn...)
-本模块主要关注统计机器学习的核心理论与算法实现。
+### 1. [5001 Statistical Machine Learning](./5001%20Statistical%20Machine%20Learning)
+必修课，本主要关注统计机器学习的核心理论与算法实现。
 - **核心涵盖**: Supervised Learning (Regression, Classification), Unsupervised Learning, Kernel Methods, Deep Learning Basics.
 - **包含内容**:
   - 作业 (Assignments)
   - 课程项目 (Course Projects)
   - 笔记 (Lecture Notes)
 
-### 2. [5003 Storing and Retrieving Data](./5003%20Storing%20and%20Retriving%20data)
-本模块探讨大规模数据的存储结构与高效检索技术。
+### 2. [5003 Storing and Retrieving Data]
+必修课，主要介绍数据库结构以及内容
 - **核心涵盖**: Relational Database Design, B+ Trees, Hashing, Query Optimization, NoSQL Databases.
 - **包含内容**:
   - 作业 (Assignments)
@@ -34,14 +34,14 @@
   - 笔记 (Lecture Notes)
 
 ### 3. [6004 Smart City](./6004%20Smart%20City)
-本模块关注数据科学在城市计算与智慧城市建设中的实际应用。
+选修课，关注数据科学在城市计算与智慧城市建设中的实际应用。
 - **核心涵盖**: Urban Computing, Spatio-temporal Data Analysis, Sensor Networks, Data Visualization for City Operations.
 - **包含内容**:
   - 课程项目 (Course Projects)
   - 笔记 (Lecture Notes)
 
 ### 4. [6015 Stochastic Optimization for ML](./6015%20Stochastic%20Opt%20for%20ML)
-本模块深入研究机器学习背后的数学优化理论，特别是随机优化方法。
+选修课，适合数学较好的同学，建议开课之前复习数学基础知识，尤其是线性代数内容。
 - **核心涵盖**: Convex Optimization, Stochastic Gradient Descent (SGD), Convergence Analysis, Online Learning.
 - **包含内容**:
   - 作业 (Assignments)
