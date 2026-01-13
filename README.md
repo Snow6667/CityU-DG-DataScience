@@ -25,7 +25,7 @@
   - 课程项目 (Course Projects)
   - 笔记 (Lecture Notes)
 
-### 2. [5003 Storing and Retrieving Data]
+### 2. [5003 Storing and Retrieving Data](./5003%20Storing%20and%20Retriving%20data)
 必修课，主要介绍数据库结构以及内容
 - **核心涵盖**: Relational Database Design, B+ Trees, Hashing, Query Optimization, NoSQL Databases.
 - **包含内容**:
