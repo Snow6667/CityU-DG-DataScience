@@ -8,10 +8,10 @@
 
 | 课程代码 | 课程名称 | 主要内容 |
 | :--- | :--- | :--- |
-| **CS5001** | [**Statistical Machine Learning**](./5001%20Statistical%20Machine%20Learning)|统计机器学习1（必修）|
-| **CS5003** | [**Storing and Retrieving Data**](./5003%20Storing%20and%20Retriving%20data)|数据库基础（必修）|
-| **CS6004** | [**Smart City**](./6004%20Smart%20City) |智慧城市（选修）|
-| **CS6015** | [**Stochastic Optimization for ML**](./6015%20Stochastic%20Opt%20for%20ML) |机器学习的随机优化方法（选修）|
+| **SDSC5001** | [**Statistical Machine Learning**](./5001%20Statistical%20Machine%20Learning)|统计机器学习1（必修）|
+| **SDSC5003** | [**Storing and Retrieving Data**](./5003%20Storing%20and%20Retriving%20data)|数据库基础（必修）|
+| **SDSC6004** | [**Smart City**](./6004%20Smart%20City) |智慧城市（选修）|
+| **SDSC6015** | [**Stochastic Optimization for ML**](./6015%20Stochastic%20Opt%20for%20ML) |机器学习的随机优化方法（选修）|
 
 ---
 
